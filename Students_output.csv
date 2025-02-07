@@ -1,0 +1,10 @@
+Name,Geography,Geography_Grade,History,History_Grade,Maths,Maths_Grade,Average,Pass_Fail
+Michael,80,C,90,B,85,B,85.0,"Congratulations, you passed!"
+Belinda,70,C,65,D,75,C,70.0,"Congratulations, you passed!"
+Julius,55,F,60,D,50,F,55.0,Fail
+Susana,70,C,25,F,68,D,54.333333333333336,Fail
+Miriam,90,B,85,B,95,A,90.0,"Congratulations, you passed!"
+Sulman,70,C,90,B,80,C,80.0,"Congratulations, you passed!"
+Zineb,80,C,90,B,75,C,81.66666666666667,"Congratulations, you passed!"
+Fabio,90,B,65,D,84,C,79.66666666666667,"Congratulations, you passed!"
+Junior,70,C,80,C,90,B,80.0,"Congratulations, you passed!"
